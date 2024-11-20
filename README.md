@@ -41,8 +41,9 @@
 
 
 📫 How to reach me
- - LinkedIn: [(https://www.linkedin.com/in/manishchand-pandey/)]
- - Email: [manishchandpandey2001@gmail.com] 📧
+ - [LinkedIn](https://www.linkedin.com/in/manishchand-pandey/)
+ - [Email:](manishchandpandey2001@gmail.com) 📧
+ - [DataStructure](https://datastructure-eta.vercel.app/)
 
 ⚡ 👀 Fun fact:
 
